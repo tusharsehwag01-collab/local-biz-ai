@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "results": [
+    "Local HTTP server bound to 127.0.0.1:8878",
+    "index at 1440px: links, keyboard focus, controls, reduced motion, image loading, overflow and screenshot PASS",
+    "quiet-editorial at 1440px: links, keyboard focus, controls, reduced motion, image loading, overflow and screenshot PASS",
+    "night-market at 1440px: links, keyboard focus, controls, reduced motion, image loading, overflow and screenshot PASS",
+    "garden-table at 1440px: links, keyboard focus, controls, reduced motion, image loading, overflow and screenshot PASS",
+    "index at 375px: links, keyboard focus, controls, reduced motion, image loading, overflow and screenshot PASS",
+    "quiet-editorial at 375px: links, keyboard focus, controls, reduced motion, image loading, overflow and screenshot PASS",
+    "night-market at 375px: links, keyboard focus, controls, reduced motion, image loading, overflow and screenshot PASS",
+    "garden-table at 375px: links, keyboard focus, controls, reduced motion, image loading, overflow and screenshot PASS",
+    "JavaScript-disabled request fallback and menus PASS"
+  ],
+  "errors": []
+}
